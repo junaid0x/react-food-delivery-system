@@ -2,7 +2,7 @@ React Food Delivery Application 🍔
 A fully functional, multipage frontend application built to simulate a real-world food ordering experience.
 
 🚀 Live Demo
-
+Coming soon
 
 🛠️ Project Features
 - Multipage Navigation: Built with a dedicated view-management system to handle separate "Menu" and "Checkout" pages seamlessly.
