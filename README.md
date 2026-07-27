@@ -1,23 +1,74 @@
-React Food Delivery Application 🍔
-A fully functional, multipage frontend application built to simulate a real-world food ordering experience.
+# React Food Delivery System
+
+A modern full-stack food ordering application built with React and Node.js. The project allows users to browse food items, manage their cart, place orders, and provides an intuitive interface for a seamless online food ordering experience.
+
+## ✨ Features
+
+- Browse food menu
+- Search and filter food items
+- Shopping cart functionality
+- Order placement
+- User authentication
+- Responsive design
+- Clean and modern UI
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React
+- Vite
+- CSS
+- Axios
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+
+## 🚀 Getting Started
+
+### Clone the repository
+
+```bash
+git clone https://github.com/junaid0x/react-food-delivery-system.git
+```
+
+### Install dependencies
+
+```bash
+# Client
+cd frontend
+npm install
+
+# Server
+cd ../backend
+npm install
+```
+
+### Configure Environment Variables
+
+Create a `.env` file inside the backend directory and configure the required environment variables.
+
+### Run the project
+
+```bash
+# Backend
+npm run dev
+
+# Frontend
+npm run dev
+```
 
 🚀 Live Demo
 https://react-food-delivery-system.vercel.app
 
-🛠️ Project Features
-- Multipage Navigation: Built with a dedicated view-management system to handle separate "Menu" and "Checkout" pages seamlessly.
-- Dynamic Shopping Cart: Users can add items, adjust quantities, and remove products with real-time price calculations.
-- Mock Data Integration: Utilizes a structured JavaScript-based database to manage and render food categories and pricing.
-- Responsive UI: Custom-built components optimized for a smooth experience on both mobile and desktop.
+## 👨‍💻 Author
 
- 💻 Tech Stack
-- Frontend: React.js
-- Styling: CSS3 (Flexbox/Grid for layout)
-- Logic: Functional Components & React Hooks
-- Architecture: Multipage SPA (Single Page Application) logic
+**Junaid**
 
- 📦 How to Run Locally
-1. git clone https://github.com/junaid0x/react-food-delivery-system.git
-2. npm install
-3. npm run dev
+
+
+
 
